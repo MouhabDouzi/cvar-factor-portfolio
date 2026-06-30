@@ -4,7 +4,7 @@
 ║  Beyond Variance: CVaR-Optimal Portfolio Construction with           ║
 ║  Factor-Adjusted Return Forecasts                                    ║
 ║                                                                      ║
-║  Author : Mouheb Douzi                                               ║
+║  Author : Mouhab Douzi                                               ║
 ║  GitHub : github.com/MouhabDouzi/cvar-factor-portfolio               ║
 ║  SSRN   : ssrn.com/author=MouhabDouzi                                ║
 ║  Seed   : np.random.seed(42)  |  S&P 500  |  2019–2024              ║
@@ -42,7 +42,7 @@ from validation  import validate, print_block
 # ── Banner ────────────────────────────────────────────────────────────────────
 BANNER = """
 ╔══════════════════════════════════════════════════════════════════════╗
-║  PAPER 4  |  CVaR-Factor Portfolio  |  Mouheb Douzi                 ║
+║  PAPER 4  |  CVaR-Factor Portfolio  |  Mouhab Douzi                 ║
 ║  github.com/MouhabDouzi/cvar-factor-portfolio                        ║
 ╚══════════════════════════════════════════════════════════════════════╝"""
 print(BANNER)
