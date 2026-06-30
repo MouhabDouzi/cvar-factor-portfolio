@@ -5,7 +5,7 @@ OLS regression per asset → factor-adjusted μ replacing noisy sample mean.
 
 E[rᵢ] = rf + βᵢ_mkt·λ_mkt + βᵢ_smb·λ_smb + βᵢ_hml·λ_hml
 
-Author : Mouheb Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
+Author : Mouhab Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
 """
 
 import numpy as np
