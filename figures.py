@@ -7,7 +7,7 @@ Fig 3 : Portfolio weight comparison
 Fig 4 : Equity curves + drawdown
 Fig 5 : Rolling Sharpe comparison
 
-Author : Mouheb Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
+Author : Mouhab Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
 """
 
 import numpy as np
