@@ -7,7 +7,7 @@ formula sheet and auto-generates the full VALIDATION BLOCK report.
 Pivots: one-sample t, paired t, chi-square variance CI,
         F-ratio, proportion z, difference of proportions z.
 
-Author : Mouheb Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
+Author : Mouhab Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
 """
 
 import numpy as np
