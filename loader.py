@@ -5,7 +5,7 @@ Tries Yahoo Finance first. Falls back to calibrated synthetic data
 automatically if yfinance is unavailable or blocked.
 Consistent with Papers 1-3: seed 42, Ledoit-Wolf shrinkage, 2019-2024.
 
-Author : Mouheb Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
+Author : Mouhab Douzi  |  github.com/MouhabDouzi/cvar-factor-portfolio
 """
 
 import numpy as np
