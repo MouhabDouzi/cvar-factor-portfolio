@@ -6,7 +6,7 @@
 [![CVXPY](https://img.shields.io/badge/Optimizer-CVXPY_CLARABEL-orange)](https://cvxpy.org)
 [![SSRN](https://img.shields.io/badge/SSRN-Submitted-red)](https://ssrn.com/author=MouhabDouzi)
 
-> Part of a four-paper series by Mouheb Douzi.
+> Part of a four-paper series by Mouhab Douzi.
 > Consistent across all papers: S&P 500 2019–2024 · `np.random.seed(42)` · Ledoit-Wolf shrinkage.
 
 ---
@@ -83,4 +83,4 @@ paper4/
 
 ---
 
-**Mouheb Douzi** · [github.com/MouhabDouzi](https://github.com/MouhabDouzi) · [ssrn.com/author=MouhabDouzi](https://ssrn.com/author=MouhabDouzi)
+**Mouhab Douzi** · [github.com/MouhabDouzi](https://github.com/MouhabDouzi) · [ssrn.com/author=MouhabDouzi](https://ssrn.com/author=MouhabDouzi)
